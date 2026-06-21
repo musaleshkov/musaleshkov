@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0969DA,100:39D353&text=Musa%20Leshkov&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Architect%20%7C%20Tech%20Lead&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+scales.;Turning+complexity+into+clean+architecture.;Engineering+AI-powered+products+for+real+people.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+scales.;Turning+complexity+into+clean+architecture.;Engineering+AI-powered+products+for+real+people.)](https://readme-typing-svg.demolab.com)
 
 [![Profile views](https://komarev.com/ghpvc/?username=musaleshkov&style=for-the-badge&color=0969da&label=PROFILE+VIEWS)](https://github.com/musaleshkov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa_Leshkov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-leshkov/)
@@ -34,6 +34,8 @@ const musa = {
 | **750K+** product catalog | **7+** apps on one design system | **22%** less fleet downtime |
 | **50K+** vehicle fleet |   **40%** less UI duplication    | **EUR 0.3M** estimated annual savings |
 
+---
+
 ## Technology radar
 
 <div align="center">
@@ -52,12 +54,16 @@ const musa = {
 
 </div>
 
+---
+
 ## What I build
 
 - **Enterprise architecture** - microfrontends, distributed systems, multi-region platforms and reusable foundations
 - **AI-powered experiences** - LLM workflows, semantic search, predictive maintenance and on-device ML
 - **High-performance interfaces** - complex dashboards, real-time telemetry and conversion-focused products
 - **Engineering organizations** - technical roadmaps, design systems, CI/CD, mentoring and sustainable standards
+
+---
 
 ## Selected engineering stories
 
@@ -86,10 +92,16 @@ const musa = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=musaleshkov&theme=transparent&hide_border=true&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=react-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=39D353&point=58A6FF&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=github-light&hide_border=true&bg_color=00000000&color=0969DA&line=1A7F37&point=0969DA&area=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=react-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=39D353&point=58A6FF&area=true" />
+</picture>
+
 </div>
 
 <details>
-<summary><b>My daily driver</b></summary>
+<summary><b>⚙️ My daily driver</b></summary>
 <br>
 
 | Component | Specification |
