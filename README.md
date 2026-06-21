@@ -1,13 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0969DA,100:39D353&text=Musa%20Leshkov&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Architect%20%7C%20Tech%20Lead&descAlignY=57&animation=fadeIn)
+<a href="https://www.linkedin.com/in/musa-leshkov/">
+  <img src="./assets/github-banner.png" alt="Musa Leshkov GitHub Banner" width="100%" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+scales.;Turning+complexity+into+clean+architecture.;Engineering+AI-powered+products+for+real+people.)](https://readme-typing-svg.demolab.com)
 
 [![Profile views](https://komarev.com/ghpvc/?username=musaleshkov&style=for-the-badge&color=0969da&label=PROFILE+VIEWS)](https://github.com/musaleshkov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa_Leshkov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-leshkov/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musaleshkov@gmail.com)
-
+ 
 </div>
 
 ## `> whoami`
