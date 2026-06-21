@@ -26,7 +26,7 @@ const musa = {
 };
 ```
 
-## Impact, not just output
+### 📈 Impact, not just output
 
 | Scale |           Engineering            | Product |
 |:---:|:--------------------------------:|:---:|
@@ -36,7 +36,7 @@ const musa = {
 
 ---
 
-## Technology radar
+### 🛠️ Technology radar
 
 <div align="center">
 
@@ -56,7 +56,7 @@ const musa = {
 
 ---
 
-## What I build
+### 💡 What I build
 
 - **Enterprise architecture** - microfrontends, distributed systems, multi-region platforms and reusable foundations
 - **AI-powered experiences** - LLM workflows, semantic search, predictive maintenance and on-device ML
@@ -65,7 +65,7 @@ const musa = {
 
 ---
 
-## Selected engineering stories
+### 📖 Selected engineering stories
 
 | Project | Challenge | Result |
 |---|---|---|
@@ -75,7 +75,9 @@ const musa = {
 | AI procurement insights | Secure LLM features for enterprise workflows | 20% shorter workflow time |
 | UI component platform | Consistency across 7+ applications | 40% less UI duplication and 30% faster delivery |
 
-## GitHub signal
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -90,7 +92,7 @@ const musa = {
   <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=musaleshkov&theme=transparent&hide_border=true&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=musaleshkov&theme=transparent&hide_border=true&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF)](https://github.com/musaleshkov)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=react-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=39D353&point=58A6FF&area=true" />
@@ -99,6 +101,8 @@ const musa = {
 </picture>
 
 </div>
+
+---
 
 <details>
 <summary><b>⚙️ My daily driver</b></summary>
@@ -115,9 +119,8 @@ const musa = {
 
 ---
 
+### 🤝 Let's build something that matters
 <div align="center">
-
-### Let's build something that matters
 
 Open to conversations about **software architecture**, **AI products**, **technical leadership**, and ambitious engineering challenges.
 
