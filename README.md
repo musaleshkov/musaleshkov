@@ -22,10 +22,10 @@ From concept to code, every project becomes a refined digital experience — bol
 ```ts
 const musa = {
   roles: ["Senior Full-Stack Engineer", "Software Architect", "Principal Engineer"],
-  building: ["Enterprise Platforms", "AI Products", "Design Systems"],
-  caresAbout: ["Architecture", "Performance", "Developer Experience"],
-  location: "Sofia, Bulgaria",
-  motto: "Make it scalable. Make it clear. Make it matter."
+  building: ["Enterprise Platforms", "Real-Time Systems", "AI-Powered Tools"],
+  caresAbout: ["Clean Architecture", "Fast Interfaces", "Developer Experience"],
+  location: "Mars - SpaceX station",
+  motto: "Make complex systems feel simple."
 };
 ```
 
