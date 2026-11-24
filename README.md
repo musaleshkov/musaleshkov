@@ -21,7 +21,7 @@ From concept to code, every project becomes a refined digital experience — bol
 
 ```ts
 const musa = {
-  roles: ["Senior Software Engineer", "Software Architect", "Tech Lead"],
+  roles: ["Senior Full-Stack Engineer", "Software Architect", "Principal Engineer"],
   building: ["Enterprise Platforms", "AI Products", "Design Systems"],
   caresAbout: ["Architecture", "Performance", "Developer Experience"],
   location: "Sofia, Bulgaria",
