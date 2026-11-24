@@ -58,22 +58,6 @@ const musa = {
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=musaleshkov&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=39D353&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=musaleshkov&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=1A7F37&rank_icon=github" />
-  <img height="180" alt="Musa's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=musaleshkov&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=39D353&rank_icon=github" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8" />
-  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</picture>
-
----
 
 ### Let's build something that matters
 <div align="center">
