@@ -29,16 +29,6 @@ const musa = {
 };
 ```
 
-### 📈 Impact, not just output
-
-| Scale |           Engineering            | Product |
-|:---:|:--------------------------------:|:---:|
-| **1M+** users served |    **15%** faster deployments     | **20%** faster AI-assisted workflows |
-| **750K+** product catalog | **7+** apps on one design system | **22%** less fleet downtime |
-| **50K+** vehicle fleet |   **40%** less UI duplication    | **EUR 0.3M** estimated annual savings |
-
----
-
 ### 🛠️ Technology radar
 
 <div align="center">
@@ -61,22 +51,10 @@ const musa = {
 
 ### 💡 What I build
 
-- **Enterprise architecture** - microfrontends, distributed systems, multi-region platforms and reusable foundations
-- **AI-powered experiences** - LLM workflows, semantic search, predictive maintenance and on-device ML
-- **High-performance interfaces** - complex dashboards, real-time telemetry and conversion-focused products
-- **Engineering organizations** - technical roadmaps, design systems, CI/CD, mentoring and sustainable standards
-
----
-
-### 📖 Selected engineering stories
-
-| Project | Challenge | Result |
-|---|---|---|
-| Multi-region AEM platform | Shared architecture across brands and markets | Less duplication, improved LCP and lower origin load |
-| Predictive fleet maintenance | Real-time ML over telemetry from 50K+ vehicles | 22% less unplanned downtime |
-| Industrial procurement | B2B platform serving 750K+ products | Scalable delivery with React, Next.js and GraphQL |
-| AI procurement insights | Secure LLM features for enterprise workflows | 20% shorter workflow time |
-| UI component platform | Consistency across 7+ applications | 40% less UI duplication and 30% faster delivery |
+- **Enterprise platforms** - Multi-brand web platforms, shared design systems, and microfrontends that teams can ship independently.
+- **Real-time systems** - Event-driven backends for vehicle telemetry, paired with dashboards that make live data easy to act on.
+- **AI-powered tools** - Semantic search, contract summarization, and on-device anomaly detection.
+- **Technical leadership** - Setting architecture direction, mentoring engineers, and making releases more reliable through shared engineering standards.
 
 ---
 
@@ -94,31 +72,6 @@ const musa = {
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8" />
   <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaleshkov&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=musaleshkov&theme=transparent&hide_border=true&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF)](https://github.com/musaleshkov)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=react-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=39D353&point=58A6FF&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=github-light&hide_border=true&bg_color=00000000&color=0969DA&line=1A7F37&point=0969DA&area=true" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=musaleshkov&theme=react-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=39D353&point=58A6FF&area=true" />
-</picture>
-
-</div>
-
----
-
-<details>
-<summary><b>⚙️ My daily driver</b></summary>
-<br>
-
-| Component | Specification |
-|---|---|
-| Machine | ASUS ROG Zephyrus G14 |
-| CPU | AMD Ryzen 9 5900HS - 8 cores / 16 threads |
-| GPU | NVIDIA GeForce RTX 3060 Laptop GPU - 6 GB GDDR6 |
-| RAM | 16 GB |
-
-</details>
 
 ---
 
