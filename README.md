@@ -14,9 +14,10 @@
 
 ## `> whoami`
 
-Passionate Software Engineer and Architect who loves building **scalable platforms**, **AI-powered products**, and **developer-first solutions** with clean architecture, high performance, and a sharp product mindset.
+I’m Musa, a  **Passionate Engineer who loves building** who loves building and solving problems.
+From concept to code, every project becomes a refined digital experience — bold in vision, smooth in motion, and built with purpose.
 
-I work where **architecture, product, and engineering execution** meet - turning ambitious ideas into maintainable systems that create measurable business value.
+[Explore my portfolio](https://musa-code.com/)
 
 ```ts
 const musa = {
