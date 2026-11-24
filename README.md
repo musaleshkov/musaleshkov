@@ -75,14 +75,14 @@ const musa = {
 
 ---
 
-### 🤝 Let's build something that matters
+### Let's build something that matters
 <div align="center">
 
 Open to conversations about **software architecture**, **AI products**, **technical leadership**, and ambitious engineering challenges.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-leshkov/)
 
-<sub>Built with curiosity, TypeScript, and an unreasonable appreciation for clean architecture.</sub>
+<sub>Built with curiosity and an unreasonable appreciation for clean architecture.</sub>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:39D353,55:0969DA,100:0D1117)
 
