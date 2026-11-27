@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-I’m Musa, a  **Passionate Engineer who loves building** who loves building and solving problems.
+I’m Musa, a  **Passionate Engineer who loves building** and solving problems.
 From concept to code, every project becomes a refined digital experience — bold in vision, smooth in motion, and built with purpose.
 
 [Explore my portfolio](https://musa-code.com/)
